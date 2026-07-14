@@ -5,37 +5,37 @@ permalink: /datasets/
 author_profile: true
 ---
 
-{% include base_path %}
+Below is a collection of computational workflows, analysis pipelines, and structural datasets developed or adapted during my research. To maintain data integrity prior to publication, some datasets and scripts are available upon request rather than direct download.
 
-Below is a collection of computational workflows, analysis scripts, and datasets developed during my PhD research. Due to the nature of the research, some full datasets and scripts are available upon request rather than direct public download.
+## Automation Scripts & Pipelines
 
-## Scripts & Automation
+### GROMACS Umbrella Sampling Workflow
+**Description:** Developed computational pipeline (`setup_automation_aroma_gmx`) designed to automate input file generation (umbrella sampling, bilayer equilibration ...), topology setup, energy minimization, and equilibration for lipid/aroma bilayers. It streamlines the preparation of system windows for high-throughput MD simulation using GROMACS.
 
-### GROMACS Membrane Bilayer & Umbrella Sampling Automation
-An automated computational workflow (`setup_automation_aroma_gmx`) designed to rapidly generate and equilibrate Aroma/lipid bilayers and automatically prepare systems for Umbrella Sampling in GROMACS. This script handles topology generation, energy minimization, equilibration, and production run setup in a single automated pipeline.
+### High-Throughput MD Trajectory Analysis
+**Description:** Custom analysis pipelines utilizing Python (MDAnalysis) and GROMACS tools to automate the extraction of key structural metrics from large-scale molecular dynamics trajectories.
 
-**Availability:** Available upon request.  
-📧 [mohyeddinetb@gmail.com](mailto:mohyeddinetb@gmail.com) | [mohyeddine.taleb@univ-reims.fr](mailto:mohyeddine.taleb@univ-reims.fr)
+**Key Metrics Covered:**
+* Root-Mean-Square Deviation (RMSD) & Fluctuation (RMSF)
+* Radius of Gyration (R_g)
+* Principal Component Analysis (PCA) for protein conformational dynamics
+* Clustering using CONAN tools
+
+## Advanced Trajectory Analysis Workflows
+
+### Dynamic IGMPlot Interaction Analysis
+**Description:** Adaptation of the Independent Gradient Model (IGM) approach to analyze non-covalent interactions (van der Waals, hydrogen bonds, and steric repulsion) across MD simulation trajectories rather than just static structures. This workflow allows for the tracking of interaction density variations and stability over simulation time.
+
+### MMPBSA analysis
+**Description:** Approach to analyze non-covalent interactions using GROMACS output to analyze interaction between protein and ligand over time.
+
+## Structural Biology Datasets
+
+### BcTSPO Docking Poses & MD Trajectories
+**Description:** A curated dataset containing high-confidence docking poses, scoring metrics, and explicit-solvent molecular dynamics trajectories evaluating the interaction between protein and novel small-molecule ligands.
 
 ---
 
-## Data Analysis Workflows
-
-### IGMPlot Non-Covalent Interaction Analysis
-Workflows for batch processing Independent Gradient Model (IGM) calculations to map and quantify non-covalent interactions (steric repulsion, van der Waals, and hydrogen bonds) between target proteins (e.g., TSPO) and various ligands.
-
-### MD Trajectory Analysis Pipelines
-Custom scripts utilizing Python (MDAnalysis) and GROMACS tools for high-throughput analysis of large-scale molecular dynamics trajectories. Automates extraction of:
-- **RMSD** — Root Mean Square Deviation
-- **RMSF** — Root Mean Square Fluctuation
-- **Radius of Gyration**
-- **PCA** — Principal Component Analysis
-
----
-
-## Structural Datasets
-
-### BcDocking Trajectories & Poses
-High-confidence docking poses, scoring metrics, and molecular dynamics trajectories evaluating the interactions between BcTSPO and novel small-molecule ligands.
-
-⚠️ *Currently under embargo pending publication.*
+## Contact for Sharing & Collaboration
+If you are interested in using these workflows or discussing the datasets, feel free to reach out:  
+📧 [mohyeddinetb@gmail.com](mailto:mohyeddinetb@gmail.com) \| [mohyeddine.taleb@univ-reims.fr](mailto:mohyeddine.taleb@univ-reims.fr)

@@ -7,15 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher with a strong background in Bio-health engineering, pharmaceutical biotechnology, and biochemistry. My expertise lies in both computational methods (molecular dynamics simulations, molecular docking, and high-performance computing) and experimental techniques, including transmembrane protein production and purification from *E. coli*.
+I am a structural biologist and computational researcher working in both theoretical chemistry and experimental biochemistry. I have a PhD from the University of Reims (France) at the ICMR lab. I also have an international Master’s in Biohealth Engineering from the University of Grenoble Alpes and a degree in Biotechnology Engineering from ENSB school in Constantine algerie.
 
-My current research focuses on the **Translocator Protein (TSPO)**, leveraging structural bioinformatics and molecular docking strategies to uncover insights relevant to drug discovery.
+During my PhD, my work focused on a transmembrane protein named TSPO, a highly conserved membrane protein implicated in many cellular processes; however, its precise mechanism remains unknown. We use the Bacillus cereus (BcTSPO) as a model system in interaction with various ligands employing a combined experimental and computational approach. Initial work implemented and optimized the production, extraction, and purification of BcTSPO from inclusion bodies and membranes. In both cases, BcTSPO was co-purified with a porphyrin. BcTSPO extracted with DDM detergent from membranes is highly unstable. The experimental part was supplemented by docking and MD calculations, which were used to investigate the system further to understand its molecular interactions at the atomic level.
 
-## Computational Resources & Datasets
-
-Below is a collection of computational workflows, analysis scripts, and datasets developed during my PhD research. Due to the nature of the research, some full datasets and scripts are available upon request rather than direct public download.
-
-* **Membrane Bilayer & Umbrella Sampling Automation:** An automated computational workflow (`setup_automation_aroma_gmx`) designed to rapidly generate and equilibrate Aroma/lipid bilayers and automatically prepare systems for Umbrella Sampling in GROMACS. Available upon request.
-* **IGMPlot Non-Covalent Interaction Analysis:** Workflows for batch processing Independent Gradient Model (IGM) calculations to map and quantify non-covalent interactions between target proteins (e.g., TSPO) and various ligands.
-* **MD Trajectory Analysis Pipelines:** Custom scripts utilizing Python and GROMACS tools for high-throughput analysis of large-scale molecular dynamics trajectories. Automates extraction of RMSD, RMSF, Radius of Gyration, and PCA.
-* **BcDocking Trajectories & Poses:** High-confidence docking poses, scoring metrics, and molecular dynamic trajectories evaluating the interactions between BcTSPO and novel small-molecule ligands. (Currently under embargo).
+![Protein-Ligand Interaction and MD Simulation](/images/tspo_interaction.jpg)

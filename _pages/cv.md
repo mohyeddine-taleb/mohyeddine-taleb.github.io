@@ -56,5 +56,5 @@ redirect_from:
 
 * Organization and communication PhDay (English) (2024, 2025).
 * Oral communication Journées de ROMEO (2024, 2025) (French).
-* Oral communication 16èmes (English) Rencontres du Réseau de Chimie Théorique du Grand Est (July 2025 | Besançon, France).
+* Oral communication 16èmes (English) Rencontres du Réseau de Chimie Théorique du Grand Est (July 2025, Besançon, France).
 * Appicom 4th plenary meeting (English) (2023).
