@@ -21,7 +21,7 @@ PR Catherine ETCHEBEST, Examinatrice (Université Paris Cité, Paris)
 DRE Jean-Jacques LACAPERE, Examinateur (Sorbonne Université, Paris)  
 CR Luminita DUMA, Examinatrice (Université de Reims Champagne–Ardenne, Reims)  
 
-*(Thesis under embargo; will be published after publishing all work)*
+*(Thesis under embargo 15/12/2028; will be published after publishing all work)*
 
 <img src="/images/Graphical_abstract.png" alt="Graphical Abstract" style="max-width: 100%; border-radius: 4px; margin-top: 1rem;">
 
