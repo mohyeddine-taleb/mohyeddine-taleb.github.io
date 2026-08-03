@@ -32,7 +32,7 @@ CR Luminita DUMA, Examinatrice (Université de Reims Champagne–Ardenne, Reims)
 ### Isolation, in vitro acetylcholinesterase inhibitory activity, molecular docking, and in silico ADME analysis of compounds from Cadaba farinosa roots
 
 **Journal:** Phytochemistry Letters  
-**Status:** Submitted  
+**Status:** Accepted  
 **Corresponding Author:** Dr Abdulmagid Alabdul Magid  
 **Co-Authors:** Mansour Issoufou Tini; Idrissa Soumana; Mohyeddine Taleb; Laurence Voutquenne-Nazabadioko  
 
