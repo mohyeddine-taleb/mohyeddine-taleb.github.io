@@ -22,6 +22,12 @@ redirect_from:
 
 ## Professional Experiences
 
+* **Freelance Consultant & Entrepreneur** (2024 – Present)
+  * France
+  * Working as an independent consultant and entrepreneur while transitioning to a postdoctoral role.
+  * Actively expanding expertise in Artificial Intelligence (AI) and Machine Learning (ML) applied to biology.
+  * Researching and developing strategies to apply predictive ML models for disease diagnosis, biomarker discovery, and drug discovery.
+
 * **PhD Research – Biology, Chemistry, Health** (2022 – 12/2025)
   * ICMR – CNRS 7312, University of Reims, France
   * Optimization of the protocol for production and purification of transmembrane protein (TSPO) from *E. coli* bacteria.
@@ -46,6 +52,7 @@ redirect_from:
 ## Technical Skills
 
 * **Molecular Dynamics & Docking:** GROMACS, AutoDock, AutoDock Vina, ChimeraX, PyMOL
+* **Artificial Intelligence & Machine Learning:** Eager to learn and apply predictive modeling (disease diagnosis, biomarker discovery)
 * **HPC & Simulations:** ROMEO, CRIANN, SLURM
 * **Spectroscopy & Chromatography:** NMR, UV-Vis, HPLC, MS, IR
 * **Molecular & Cell Biology:** Cell culture
