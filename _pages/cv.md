@@ -22,9 +22,7 @@ redirect_from:
 
 ## Professional Experiences
 
-* **Freelance Consultant & Entrepreneur** (2024 – Present)
-  * France
-  * Working as an independent consultant and entrepreneur while transitioning to a postdoctoral role.
+* **Freelance Consultant & Entrepreneur** (2026 – Present)
   * Actively expanding expertise in Artificial Intelligence (AI) and Machine Learning (ML) applied to biology.
   * Researching and developing strategies to apply predictive ML models for disease diagnosis, biomarker discovery, and drug discovery.
 
