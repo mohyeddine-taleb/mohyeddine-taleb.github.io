@@ -23,8 +23,10 @@ redirect_from:
 ## Professional Experiences
 
 * **Freelance Consultant & Entrepreneur** (2026 – Present)
-  * Actively expanding expertise in Artificial Intelligence (AI) and Machine Learning (ML) applied to biology.
-  * Researching and developing strategies to apply predictive ML models for disease diagnosis, biomarker discovery, and drug discovery.
+  * France
+  * Working as an independent consultant and researcher while transitioning to a postdoctoral role.
+  * Actively expanding expertise in Artificial Intelligence (AI), Machine Learning (ML), and Cheminformatics applied to biology.
+  * Building workflows with **PyTorch**, **RDKit**, and **Biopython** for molecular descriptor calculation, sequence conservation, biomarker discovery, and drug-target interaction prediction.
 
 * **PhD Research – Biology, Chemistry, Health** (2022 – 12/2025)
   * ICMR – CNRS 7312, University of Reims, France
@@ -50,11 +52,12 @@ redirect_from:
 ## Technical Skills
 
 * **Molecular Dynamics & Docking:** GROMACS, AutoDock, AutoDock Vina, ChimeraX, PyMOL
-* **Artificial Intelligence & Machine Learning:** Eager to learn and apply predictive modeling (disease diagnosis, biomarker discovery)
+* **Cheminformatics & AI / Machine Learning:** PyTorch, RDKit (descriptors, fingerprints, SMILES parsing), scikit-learn, predictive modeling for drug discovery & biomarkers
+* **Bioinformatics & Sequence Analysis:** Biopython, Pairwise & Multiple Sequence Alignment (ClustalW, Muscle), sequence conservation & SNP polymorphism analysis (rs6971), NCBI Entrez
 * **HPC & Simulations:** ROMEO, CRIANN, SLURM
 * **Spectroscopy & Chromatography:** NMR, UV-Vis, HPLC, MS, IR
-* **Molecular & Cell Biology:** Cell culture
-* **Softwares & Programming:** Python, TopSpin, ChemDraw, Photoshop / Illustrator, Video Editing
+* **Molecular & Cell Biology:** Cell culture, protein overexpression, membrane protein extraction & purification
+* **Programming & Tools:** Python (PyTorch, RDKit, Biopython, MDAnalysis, NumPy, Pandas, Matplotlib, Seaborn), Git/GitHub, Linux/Bash, TopSpin, ChemDraw
 * **Languages:** English (Advanced), French (Advanced), Arabic (Native)
 
 ## Communications

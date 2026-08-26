@@ -26,8 +26,14 @@ Below is a collection of computational workflows, analysis pipelines, and struct
 ### Dynamic IGMPlot Interaction Analysis
 **Description:** Adaptation of the Independent Gradient Model (IGM) approach to analyze non-covalent interactions (van der Waals, hydrogen bonds, and steric repulsion) across MD simulation trajectories rather than just static structures. This workflow allows for the tracking of interaction density variations and stability over simulation time.
 
-### MMPBSA analysis
-**Description:** Approach to analyze non-covalent interactions using GROMACS output to analyze interaction between protein and ligand over time.
+## Bioinformatics & Cheminformatics Workflows
+
+### TSPO Cross-Species Conservation & Polymorphism Analysis
+**Description:** Automated sequence analysis pipeline using **Biopython** and NCBI Entrez to fetch cross-species TSPO sequences (*Homo sapiens*, *Rattus norvegicus*, *Mus musculus*, *Bacillus cereus*), compute pairwise global alignments, generate percent identity heatmaps, and map residue conservation across the 5 transmembrane domains. Specifically highlights the **Ala147Thr polymorphism (rs6971)** in human TSPO and explains its impact on 2nd- vs 3rd-generation PET radioligand binding.  
+🔗 **Notebook:** [TSPO_conservation_analysis.ipynb](https://github.com/mohyeddine-taleb/mohyeddine-taleb.github.io/blob/main/notebooks/TSPO_conservation_analysis.ipynb)
+
+### Molecular Cheminformatics & Deep Learning Pipelines
+**Description:** Workflows leveraging **RDKit** and **PyTorch** for molecular structure processing, 2D/3D chemical descriptor generation, Morgan fingerprint calculations, and predictive modeling for drug-target binding affinity and ADMET properties.
 
 ## Structural Biology Datasets
 
