@@ -16,7 +16,7 @@ Below is a collection of computational workflows, interactive Jupyter notebooks,
 🔗 **Explore Notebook on GitHub:** [`TSPO_conservation_analysis.ipynb`](https://github.com/mohyeddine-taleb/mohyeddine-taleb.github.io/blob/main/notebooks/TSPO_conservation_analysis.ipynb)
 
 ### 2. Graph Neural Networks (GNN) & Deep Learning for Molecular Docking
-**Description:** End-to-end pipeline combining **RDKit** and **PyTorch Geometric (PyG)** to represent small molecules as graph topologies (atoms as node features, chemical bonds as edges) and train a **Graph Convolutional Network (GCN)** to predict protein-ligand binding free energies. Bridges ensemble docking across MD conformational clusters with deep learning surrogate screening.  
+**Description:** End-to-end deep learning pipeline combining **RDKit** and **PyTorch Geometric (PyG)** to predict protein-ligand binding free energies directly from molecular graph topologies. Trained and evaluated on systematic docking data generated during my PhD research across all available TSPO structural states (**BcTSPO**, **mTSPO**, **RsTSPO**, and **MD conformational clusters C0–C6**). Bridges high-throughput ensemble docking with deep learning surrogate screening.  
 🔗 **Explore Notebook on GitHub:** [`GNN_Molecular_Docking_ML.ipynb`](https://github.com/mohyeddine-taleb/mohyeddine-taleb.github.io/blob/main/notebooks/GNN_Molecular_Docking_ML.ipynb)
 
 ---

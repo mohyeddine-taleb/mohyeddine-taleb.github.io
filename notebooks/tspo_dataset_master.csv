@@ -1,0 +1,357 @@
+Protein_State,Docking_Engine,Ligand_Name,SMILES,Replicate,Binding_Energy
+BcTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 1 (1er),-5.14
+BcTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 2 (2eme),-7.7
+BcTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 3 (3eme),-5.91
+BcTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 1 (1er),-5.0
+BcTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 2 (2eme),-6.44
+BcTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 3 (3eme),-6.2
+BcTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-7.95
+BcTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-8.15
+BcTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-8.16
+BcTSPO_,autodock4.2,Etifoxine_R,CC/N=C1\Nc2ccc(Cl)cc2[C@@](C)(c2ccccc2)O1,Rep 1 (1er),-8.08
+BcTSPO_,autodock4.2,Etifoxine_R,CC/N=C1\Nc2ccc(Cl)cc2[C@@](C)(c2ccccc2)O1,Rep 2 (2eme),-8.09
+BcTSPO_,autodock4.2,Etifoxine_R,CC/N=C1\Nc2ccc(Cl)cc2[C@@](C)(c2ccccc2)O1,Rep 3 (3eme),-8.09
+BcTSPO_,autodock4.2,Etifoxine_S,CC/N=C1\Nc2ccc(Cl)cc2[C@](C)(c2ccccc2)O1,Rep 1 (1er),-7.71
+BcTSPO_,autodock4.2,Etifoxine_S,CC/N=C1\Nc2ccc(Cl)cc2[C@](C)(c2ccccc2)O1,Rep 2 (2eme),-7.69
+BcTSPO_,autodock4.2,Etifoxine_S,CC/N=C1\Nc2ccc(Cl)cc2[C@](C)(c2ccccc2)O1,Rep 3 (3eme),-7.69
+BcTSPO_,autodock4.2,FGIN_1_27,Fc1ccc(c2[nH]c3c(c2CC(=O)N(CCCCCC)CCCCCC)cccc3)cc1,Rep 1 (1er),-9.31
+BcTSPO_,autodock4.2,FGIN_1_27,Fc1ccc(c2[nH]c3c(c2CC(=O)N(CCCCCC)CCCCCC)cccc3)cc1,Rep 2 (2eme),-9.3
+BcTSPO_,autodock4.2,FGIN_1_27,Fc1ccc(c2[nH]c3c(c2CC(=O)N(CCCCCC)CCCCCC)cccc3)cc1,Rep 3 (3eme),-9.59
+BcTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-11.35
+BcTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-11.29
+BcTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-11.39
+BcTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-10.11
+BcTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-10.12
+BcTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-10.02
+BcTSPO_,autodock4.2,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 1 (1er),-10.31
+BcTSPO_,autodock4.2,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 2 (2eme),-10.27
+BcTSPO_,autodock4.2,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 3 (3eme),-10.29
+BcTSPO_,autodock4.2,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 1 (1er),-10.52
+BcTSPO_,autodock4.2,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 2 (2eme),-10.56
+BcTSPO_,autodock4.2,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 3 (3eme),-10.6
+BcTSPO_,autodock4.2,PK11195,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-9.68
+BcTSPO_,autodock4.2,PK11195,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-9.48
+BcTSPO_,autodock4.2,PK11195,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-9.63
+BcTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-10.91
+BcTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 1 (1er),-9.86
+BcTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-10.82
+BcTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 2 (2eme),-10.16
+BcTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-10.56
+BcTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 3 (3eme),-9.8
+BcTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-8.09
+BcTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-8.11
+BcTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-8.12
+BcTSPO_,autodock4.2,"SSR-180,575",Clc1cc2n(c3c(c2cc1)c(nn(c3=O)c1ccccc1)CC(=O)N(C)C)C,Rep 1 (1er),-9.76
+BcTSPO_,autodock4.2,"SSR-180,575",Clc1cc2n(c3c(c2cc1)c(nn(c3=O)c1ccccc1)CC(=O)N(C)C)C,Rep 2 (2eme),-9.77
+BcTSPO_,autodock4.2,"SSR-180,575",Clc1cc2n(c3c(c2cc1)c(nn(c3=O)c1ccccc1)CC(=O)N(C)C)C,Rep 3 (3eme),-9.77
+BcTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 1 (1er),0.91
+BcTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 2 (2eme),0.61
+BcTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 3 (3eme),-0.01
+BcTSPO_,autodock4.2,XBD173,O=c1n(CC(=O)N(Cc2ccccc2)CC)c2nc(ncc2n1C)c1ccccc1,Rep 1 (1er),-9.45
+BcTSPO_,autodock4.2,XBD173,O=c1n(CC(=O)N(Cc2ccccc2)CC)c2nc(ncc2n1C)c1ccccc1,Rep 2 (2eme),-9.47
+BcTSPO_,autodock4.2,XBD173,O=c1n(CC(=O)N(Cc2ccccc2)CC)c2nc(ncc2n1C)c1ccccc1,Rep 3 (3eme),-9.44
+BcTSPO_,autodock4.2,[19F] DPA-714 ,CCN(CC)C(=O)Cc1c(c2ccc(OCCF)cc2)nn2c(C)cc(C)nc12,Rep 1 (1er),-9.01
+BcTSPO_,autodock4.2,[19F] DPA-714 ,CCN(CC)C(=O)Cc1c(c2ccc(OCCF)cc2)nn2c(C)cc(C)nc12,Rep 2 (2eme),-9.15
+BcTSPO_,autodock4.2,[19F] DPA-714 ,CCN(CC)C(=O)Cc1c(c2ccc(OCCF)cc2)nn2c(C)cc(C)nc12,Rep 3 (3eme),-9.08
+BcTSPO_,autodock4.2,[19F] FEPPA ,CC(=O)N(Cc1ccccc1OCCF)c1ccncc1Oc1ccccc1,Rep 1 (1er),-8.23
+BcTSPO_,autodock4.2,[19F] FEPPA ,CC(=O)N(Cc1ccccc1OCCF)c1ccncc1Oc1ccccc1,Rep 2 (2eme),-8.0
+BcTSPO_,autodock4.2,[19F] FEPPA ,CC(=O)N(Cc1ccccc1OCCF)c1ccncc1Oc1ccccc1,Rep 3 (3eme),-8.22
+BcTSPO_,autodock4.2,[19F] RF3458 ,[C@H](Cc1ccc(cc1)F)(NC(=O)c1ccccc1)C(=O)N(C)c1ccccc1,Rep 1 (1er),-8.42
+BcTSPO_,autodock4.2,[19F] RF3458 ,[C@H](Cc1ccc(cc1)F)(NC(=O)c1ccccc1)C(=O)N(C)c1ccccc1,Rep 2 (2eme),-8.52
+BcTSPO_,autodock4.2,[19F] RF3458 ,[C@H](Cc1ccc(cc1)F)(NC(=O)c1ccccc1)C(=O)N(C)c1ccccc1,Rep 3 (3eme),-8.68
+BcTSPO_,autodock4.2,[19F] VUIIS8310 ,CN(C)C(=O)Cc1nn(c2cccc(F)n2)c(=O)c2c1c1ccc(Cl)cc1n2C,Rep 1 (1er),-9.38
+BcTSPO_,autodock4.2,[19F] VUIIS8310 ,CN(C)C(=O)Cc1nn(c2cccc(F)n2)c(=O)c2c1c1ccc(Cl)cc1n2C,Rep 2 (2eme),-9.35
+BcTSPO_,autodock4.2,[19F] VUIIS8310 ,CN(C)C(=O)Cc1nn(c2cccc(F)n2)c(=O)c2c1c1ccc(Cl)cc1n2C,Rep 3 (3eme),-9.36
+BcTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 1 (1er),-7.126
+BcTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 2 (2eme),-7.19
+BcTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 3 (3eme),-6.817
+BcTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 1 (1er),-6.416
+BcTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 2 (2eme),-6.221
+BcTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 3 (3eme),-6.708
+BcTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-10.42
+BcTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-10.253
+BcTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-10.233
+BcTSPO_,autodock Vina,Etifoxine_R,CC/N=C1\Nc2ccc(Cl)cc2[C@@](C)(c2ccccc2)O1,Rep 1 (1er),-8.784
+BcTSPO_,autodock Vina,Etifoxine_R,CC/N=C1\Nc2ccc(Cl)cc2[C@@](C)(c2ccccc2)O1,Rep 2 (2eme),-8.807
+BcTSPO_,autodock Vina,Etifoxine_R,CC/N=C1\Nc2ccc(Cl)cc2[C@@](C)(c2ccccc2)O1,Rep 3 (3eme),-8.805
+BcTSPO_,autodock Vina,Etifoxine_S,CC/N=C1\Nc2ccc(Cl)cc2[C@](C)(c2ccccc2)O1,Rep 1 (1er),-9.869
+BcTSPO_,autodock Vina,Etifoxine_S,CC/N=C1\Nc2ccc(Cl)cc2[C@](C)(c2ccccc2)O1,Rep 2 (2eme),-9.829
+BcTSPO_,autodock Vina,Etifoxine_S,CC/N=C1\Nc2ccc(Cl)cc2[C@](C)(c2ccccc2)O1,Rep 3 (3eme),-8.534
+BcTSPO_,autodock Vina,FGIN_1_27,Fc1ccc(c2[nH]c3c(c2CC(=O)N(CCCCCC)CCCCCC)cccc3)cc1,Rep 1 (1er),-8.308
+BcTSPO_,autodock Vina,FGIN_1_27,Fc1ccc(c2[nH]c3c(c2CC(=O)N(CCCCCC)CCCCCC)cccc3)cc1,Rep 2 (2eme),-8.198
+BcTSPO_,autodock Vina,FGIN_1_27,Fc1ccc(c2[nH]c3c(c2CC(=O)N(CCCCCC)CCCCCC)cccc3)cc1,Rep 3 (3eme),-8.914
+BcTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-9.171
+BcTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-9.259
+BcTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-8.736
+BcTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-9.839
+BcTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-10.033
+BcTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-9.866
+BcTSPO_,autodock Vina,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 1 (1er),-10.372
+BcTSPO_,autodock Vina,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 2 (2eme),-10.365
+BcTSPO_,autodock Vina,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 3 (3eme),-10.303
+BcTSPO_,autodock Vina,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 1 (1er),-10.317
+BcTSPO_,autodock Vina,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 2 (2eme),-10.249
+BcTSPO_,autodock Vina,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 3 (3eme),-10.379
+BcTSPO_,autodock Vina,PK11195,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-9.582
+BcTSPO_,autodock Vina,PK11195,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-9.86
+BcTSPO_,autodock Vina,PK11195,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-9.509
+BcTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-7.839
+BcTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 1 (1er),-7.369
+BcTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-7.781
+BcTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 2 (2eme),-7.423
+BcTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-7.889
+BcTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 3 (3eme),-7.348
+BcTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-9.82
+BcTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-9.541
+BcTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-9.653
+BcTSPO_,autodock Vina,"SSR-180,575",Clc1cc2n(c3c(c2cc1)c(nn(c3=O)c1ccccc1)CC(=O)N(C)C)C,Rep 1 (1er),-8.643
+BcTSPO_,autodock Vina,"SSR-180,575",Clc1cc2n(c3c(c2cc1)c(nn(c3=O)c1ccccc1)CC(=O)N(C)C)C,Rep 2 (2eme),-10.445
+BcTSPO_,autodock Vina,"SSR-180,575",Clc1cc2n(c3c(c2cc1)c(nn(c3=O)c1ccccc1)CC(=O)N(C)C)C,Rep 3 (3eme),-10.446
+BcTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 1 (1er),-5.875
+BcTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 2 (2eme),-6.059
+BcTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 3 (3eme),-5.708
+BcTSPO_,autodock Vina,XBD173,O=c1n(CC(=O)N(Cc2ccccc2)CC)c2nc(ncc2n1C)c1ccccc1,Rep 1 (1er),-9.2
+BcTSPO_,autodock Vina,XBD173,O=c1n(CC(=O)N(Cc2ccccc2)CC)c2nc(ncc2n1C)c1ccccc1,Rep 2 (2eme),-9.703
+BcTSPO_,autodock Vina,XBD173,O=c1n(CC(=O)N(Cc2ccccc2)CC)c2nc(ncc2n1C)c1ccccc1,Rep 3 (3eme),-10.104
+BcTSPO_,autodock Vina,[19F] DPA-714 ,CCN(CC)C(=O)Cc1c(c2ccc(OCCF)cc2)nn2c(C)cc(C)nc12,Rep 1 (1er),-8.265
+BcTSPO_,autodock Vina,[19F] DPA-714 ,CCN(CC)C(=O)Cc1c(c2ccc(OCCF)cc2)nn2c(C)cc(C)nc12,Rep 2 (2eme),-8.424
+BcTSPO_,autodock Vina,[19F] DPA-714 ,CCN(CC)C(=O)Cc1c(c2ccc(OCCF)cc2)nn2c(C)cc(C)nc12,Rep 3 (3eme),-8.331
+BcTSPO_,autodock Vina,[19F] FEPPA ,CC(=O)N(Cc1ccccc1OCCF)c1ccncc1Oc1ccccc1,Rep 1 (1er),-8.695
+BcTSPO_,autodock Vina,[19F] FEPPA ,CC(=O)N(Cc1ccccc1OCCF)c1ccncc1Oc1ccccc1,Rep 2 (2eme),-8.893
+BcTSPO_,autodock Vina,[19F] FEPPA ,CC(=O)N(Cc1ccccc1OCCF)c1ccncc1Oc1ccccc1,Rep 3 (3eme),-7.784
+BcTSPO_,autodock Vina,[19F] RF3458 ,[C@H](Cc1ccc(cc1)F)(NC(=O)c1ccccc1)C(=O)N(C)c1ccccc1,Rep 1 (1er),-8.684
+BcTSPO_,autodock Vina,[19F] RF3458 ,[C@H](Cc1ccc(cc1)F)(NC(=O)c1ccccc1)C(=O)N(C)c1ccccc1,Rep 2 (2eme),-8.562
+BcTSPO_,autodock Vina,[19F] RF3458 ,[C@H](Cc1ccc(cc1)F)(NC(=O)c1ccccc1)C(=O)N(C)c1ccccc1,Rep 3 (3eme),-8.964
+BcTSPO_,autodock Vina,[19F] VUIIS8310 ,CN(C)C(=O)Cc1nn(c2cccc(F)n2)c(=O)c2c1c1ccc(Cl)cc1n2C,Rep 1 (1er),-10.685
+BcTSPO_,autodock Vina,[19F] VUIIS8310 ,CN(C)C(=O)Cc1nn(c2cccc(F)n2)c(=O)c2c1c1ccc(Cl)cc1n2C,Rep 2 (2eme),-10.684
+BcTSPO_,autodock Vina,[19F] VUIIS8310 ,CN(C)C(=O)Cc1nn(c2cccc(F)n2)c(=O)c2c1c1ccc(Cl)cc1n2C,Rep 3 (3eme),-10.656
+RsTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 1 (1er),-9.58
+RsTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 2 (2eme),-8.84
+RsTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 3 (3eme),-9.15
+RsTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 1 (1er),-8.04
+RsTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 2 (2eme),-9.47
+RsTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 3 (3eme),-9.4
+RsTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-8.76
+RsTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-8.76
+RsTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-8.74
+RsTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-14.14
+RsTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-14.05
+RsTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-13.84
+RsTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-10.95
+RsTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-9.79
+RsTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-10.4
+RsTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-9.24
+RsTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-11.36
+RsTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-9.61
+RsTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-11.55
+RsTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 1 (1er),-15.69
+RsTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-11.73
+RsTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 2 (2eme),-15.44
+RsTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-11.77
+RsTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 3 (3eme),-15.06
+RsTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-9.18
+RsTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-9.16
+RsTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-9.19
+RsTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 1 (1er),-7.73
+RsTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 2 (2eme),-8.02
+RsTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 3 (3eme),-8.52
+RsTSPO_,autodock4.2,_HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-16.67
+RsTSPO_,autodock4.2,_HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-16.64
+RsTSPO_,autodock4.2,_HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-16.66
+RsTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 1 (1er),-8.682
+RsTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 2 (2eme),-8.673
+RsTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 3 (3eme),-9.189
+RsTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 1 (1er),-7.252
+RsTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 2 (2eme),-7.503
+RsTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 3 (3eme),-7.337
+RsTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-11.498
+RsTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-11.47
+RsTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-11.086
+RsTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-10.791
+RsTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-10.902
+RsTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-10.835
+RsTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-10.596
+RsTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-9.282
+RsTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-9.452
+RsTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-10.24
+RsTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-9.281
+RsTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-12.012
+RsTSPO_,autodock Vina,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 1 (1er),-9.87
+RsTSPO_,autodock Vina,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 2 (2eme),-8.903
+RsTSPO_,autodock Vina,PK 11195 (R ),CC[C@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 3 (3eme),-9.918
+RsTSPO_,autodock Vina,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 1 (1er),-8.723
+RsTSPO_,autodock Vina,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 2 (2eme),-9.006
+RsTSPO_,autodock Vina,PK 11195 (S),CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,Rep 3 (3eme),-8.72
+RsTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-10.463
+RsTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 1 (1er),-10.137
+RsTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-10.491
+RsTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 2 (2eme),-10.056
+RsTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-10.516
+RsTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 3 (3eme),-10.295
+RsTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-10.932
+RsTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-10.691
+RsTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-10.087
+RsTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 1 (1er),-6.158
+RsTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 2 (2eme),-6.457
+RsTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 3 (3eme),-6.45
+mTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 1 (1er),-1.15
+mTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 2 (2eme),-5.36
+mTSPO_,autodock4.2,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 3 (3eme),-3.76
+mTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 1 (1er),-3.98
+mTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 2 (2eme),-2.96
+mTSPO_,autodock4.2,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 3 (3eme),-2.63
+mTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-8.36
+mTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-8.36
+mTSPO_,autodock4.2,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-8.36
+mTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),4.88
+mTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),5.16
+mTSPO_,autodock4.2,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),5.51
+mTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-9.48
+mTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-10.76
+mTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-9.5
+mTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-10.86
+mTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-9.47
+mTSPO_,autodock4.2,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-10.79
+mTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),2.28
+mTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 1 (1er),-2.09
+mTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),2.07
+mTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 2 (2eme),-1.9
+mTSPO_,autodock4.2,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),2.23
+mTSPO_,autodock4.2,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 3 (3eme),-2.64
+mTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-8.15
+mTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-8.16
+mTSPO_,autodock4.2,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-8.16
+mTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 1 (1er),22.69
+mTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 2 (2eme),16.93
+mTSPO_,autodock4.2,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 3 (3eme),19.77
+mTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 1 (1er),-6.586
+mTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 2 (2eme),-6.693
+mTSPO_,autodock Vina,Copro ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(C)c1CCC(=O)O)C2,Rep 3 (3eme),-6.685
+mTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 1 (1er),-7.374
+mTSPO_,autodock Vina,CoproI ,Cc1c2[nH]c(c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)Cc1[nH]c(c(CCC(=O)O)c1C)C2,Rep 3 (3eme),-7.245
+mTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-9.81
+mTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-9.744
+mTSPO_,autodock Vina,Diazepam ,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-9.773
+mTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-8.466
+mTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-8.569
+mTSPO_,autodock Vina,HEME,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-8.282
+mTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-10.317
+mTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-10.476
+mTSPO_,autodock Vina,PK 11195 ,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-10.371
+mTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-7.773
+mTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 1 (1er),-7.44
+mTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-7.92
+mTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 2 (2eme),-7.302
+mTSPO_,autodock Vina,PPIX ,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-7.892
+mTSPO_,autodock Vina,PPIX ,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,Rep 3 (3eme),-7.429
+mTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-9.743
+mTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-9.731
+mTSPO_,autodock Vina,Ro5-4864 ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-9.725
+mTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 1 (1er),-6.558
+mTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 2 (2eme),-6.395
+mTSPO_,autodock Vina,Uro III ,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,Rep 3 (3eme),-6.276
+MD_Cluster_C0,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-5.02
+MD_Cluster_C0,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-5.31
+MD_Cluster_C0,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-5.88
+MD_Cluster_C0,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),26.23
+MD_Cluster_C0,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),45.12
+MD_Cluster_C0,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-5.32
+MD_Cluster_C0,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-5.33
+MD_Cluster_C0,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-5.82
+MD_Cluster_C0,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-0.55
+MD_Cluster_C0,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),49.84
+MD_Cluster_C0,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-5.296666666666667
+MD_Cluster_C0,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-5.33
+MD_Cluster_C0,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-5.853333333333334
+MD_Cluster_C0,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),17.176666666666666
+MD_Cluster_C0,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),46.69333333333333
+MD_Cluster_C1,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-5.83
+MD_Cluster_C1,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-6.3
+MD_Cluster_C1,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-6.6
+MD_Cluster_C1,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-3.99
+MD_Cluster_C1,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-2.26
+MD_Cluster_C1,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-5.87
+MD_Cluster_C1,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-6.3
+MD_Cluster_C1,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-6.6
+MD_Cluster_C1,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-4.2
+MD_Cluster_C1,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-2.16
+MD_Cluster_C1,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-5.830000000000001
+MD_Cluster_C1,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-6.3
+MD_Cluster_C1,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-6.599999999999999
+MD_Cluster_C1,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-4.113333333333333
+MD_Cluster_C1,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-2.296666666666667
+MD_Cluster_C2,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-5.33
+MD_Cluster_C2,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-5.83
+MD_Cluster_C2,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-6.36
+MD_Cluster_C2,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),8.56
+MD_Cluster_C2,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),129.69
+MD_Cluster_C2,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-4.93
+MD_Cluster_C2,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-5.93
+MD_Cluster_C2,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-6.36
+MD_Cluster_C2,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),6.44
+MD_Cluster_C2,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),36.33
+MD_Cluster_C2,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-5.286666666666666
+MD_Cluster_C2,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-5.903333333333333
+MD_Cluster_C2,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-6.37
+MD_Cluster_C2,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),7.163333333333334
+MD_Cluster_C2,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),100.00666666666666
+MD_Cluster_C3,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-8.9
+MD_Cluster_C3,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-8.31
+MD_Cluster_C3,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-8.42
+MD_Cluster_C3,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-9.02
+MD_Cluster_C3,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-10.2
+MD_Cluster_C3,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-8.97
+MD_Cluster_C3,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-8.31
+MD_Cluster_C3,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-8.42
+MD_Cluster_C3,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-8.59
+MD_Cluster_C3,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-10.38
+MD_Cluster_C3,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-8.92
+MD_Cluster_C3,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-8.31
+MD_Cluster_C3,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-8.42
+MD_Cluster_C3,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-8.583333333333334
+MD_Cluster_C3,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-10.37
+MD_Cluster_C4,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-9.07
+MD_Cluster_C4,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-7.58
+MD_Cluster_C4,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-8.41
+MD_Cluster_C4,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-4.32
+MD_Cluster_C4,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-5.86
+MD_Cluster_C4,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-8.87
+MD_Cluster_C4,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-7.58
+MD_Cluster_C4,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-8.44
+MD_Cluster_C4,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-5.26
+MD_Cluster_C4,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-5.74
+MD_Cluster_C4,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-8.956666666666665
+MD_Cluster_C4,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-7.580000000000001
+MD_Cluster_C4,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-8.416666666666666
+MD_Cluster_C4,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-4.9799999999999995
+MD_Cluster_C4,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-5.8933333333333335
+MD_Cluster_C5,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-7.31
+MD_Cluster_C5,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-7.12
+MD_Cluster_C5,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-7.54
+MD_Cluster_C5,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),-8.34
+MD_Cluster_C5,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),-8.01
+MD_Cluster_C5,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-7.31
+MD_Cluster_C5,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-7.06
+MD_Cluster_C5,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-7.54
+MD_Cluster_C5,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),-8.56
+MD_Cluster_C5,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),-7.34
+MD_Cluster_C5,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-7.306666666666666
+MD_Cluster_C5,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-7.096666666666667
+MD_Cluster_C5,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-7.53
+MD_Cluster_C5,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),-8.433333333333335
+MD_Cluster_C5,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),-7.723333333333334
+MD_Cluster_C6,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 1 (1er),-7.56
+MD_Cluster_C6,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 1 (1er),-7.16
+MD_Cluster_C6,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 1 (1er),-6.36
+MD_Cluster_C6,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 1 (1er),12.46
+MD_Cluster_C6,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 1 (1er),35.01
+MD_Cluster_C6,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 2 (2eme),-8.73
+MD_Cluster_C6,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 2 (2eme),-7.16
+MD_Cluster_C6,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 2 (2eme),-6.36
+MD_Cluster_C6,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 2 (2eme),11.44
+MD_Cluster_C6,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 2 (2eme),39.79
+MD_Cluster_C6,autodock4.2,C0,CC[C@@H](C)N(C)C(=O)c1cc2ccccc2c(n1)c3ccccc3Cl,Rep 3 (3eme),-8.296666666666667
+MD_Cluster_C6,autodock4.2,C0,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,Rep 3 (3eme),-7.16
+MD_Cluster_C6,autodock4.2,C0,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=C(C=C3)Cl,Rep 3 (3eme),-6.353333333333333
+MD_Cluster_C6,autodock4.2,C0,Cc1c2[nH]c(cc3nc(cc4[nH]c(cc5nc(c2)c(C)c5C=C)c(C)c4C=C)c(C)c3CCC(O)=O)c1CCC(O)=O,Rep 3 (3eme),8.549999999999999
+MD_Cluster_C6,autodock4.2,C0,Cc1c2n3c(c1CCC(=O)O)C=C4C(=C(C5=[N]4[Fe]36[N]7=C(C=C8N6C(=C5)C(=C8C)C=C)C(=C(C7=C2)C)C=C)C)CCC(=O)O,Rep 3 (3eme),33.52
