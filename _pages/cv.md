@@ -51,13 +51,13 @@ redirect_from:
 
 ## Technical Skills
 
-* **Molecular Dynamics & Docking:** GROMACS, AutoDock, AutoDock Vina, ChimeraX, PyMOL
-* **Cheminformatics & AI / Machine Learning:** PyTorch, RDKit (descriptors, fingerprints, SMILES parsing), scikit-learn, predictive modeling for drug discovery & biomarkers
+* **Molecular Dynamics & Docking:** GROMACS, AutoDock, AutoDock Vina, ChimeraX, PyMOL, Ensemble Docking
+* **Cheminformatics & AI / Machine Learning:** PyTorch, PyTorch Geometric (PyG, Graph Neural Networks / GCN), RDKit (molecular graphs, fingerprints, descriptors), scikit-learn
 * **Bioinformatics & Sequence Analysis:** Biopython, Pairwise & Multiple Sequence Alignment (ClustalW, Muscle), sequence conservation & SNP polymorphism analysis (rs6971), NCBI Entrez
 * **HPC & Simulations:** ROMEO, CRIANN, SLURM
 * **Spectroscopy & Chromatography:** NMR, UV-Vis, HPLC, MS, IR
-* **Molecular & Cell Biology:** Cell culture, protein overexpression, membrane protein extraction & purification
-* **Programming & Tools:** Python (PyTorch, RDKit, Biopython, MDAnalysis, NumPy, Pandas, Matplotlib, Seaborn), Git/GitHub, Linux/Bash, TopSpin, ChemDraw
+* **Molecular & Cell Biology:** Cell culture, protein overexpression, membrane protein extraction & purification (SDS, DPC, DDM)
+* **Programming & Tools:** Python (PyTorch, PyG, RDKit, Biopython, MDAnalysis, NumPy, Pandas, Matplotlib, Seaborn), Web Dashboards (HTML5/JS, 3Dmol.js/NGL), Git/GitHub, Linux/Bash, TopSpin, ChemDraw
 * **Languages:** English (Advanced), French (Advanced), Arabic (Native)
 
 ## Communications

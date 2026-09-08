@@ -1,43 +1,43 @@
-# TSPO Conservation Analysis
+# Bioinformatics & Computational Biology Notebooks
 
-## Overview
-This notebook demonstrates a bioinformatics analysis of the **Translocator Protein (TSPO)**
-across multiple species, directly connecting PhD thesis work to standard NGS/bioinformatics
-concepts used in industry and academia.
+This directory contains reproducible Jupyter notebooks demonstrating computational workflows developed by **Mohyeddine Taleb**, spanning sequence bioinformatics, molecular dynamics / docking automation, cheminformatics, and deep learning.
 
-## What the Notebook Does
-1. Fetches TSPO protein sequences from NCBI (Human, Rat, Mouse, *B. cereus*)
-2. Performs pairwise global alignments using **Biopython PairwiseAligner**
-3. Computes a **percent identity matrix** visualised as a heatmap
-4. Generates a **conservation profile plot** per residue position
-5. Highlights the **Ala147Thr polymorphism (rs6971)** and explains its clinical impact
+---
 
-## Requirements
+## 📚 Available Notebooks
+
+### 1. 🧬 [TSPO Conservation & Polymorphism Analysis](TSPO_conservation_analysis.ipynb)
+* **Topics:** Sequence Alignment, Biopython, NCBI Entrez, Heatmap Visualization, SNP & Polymorphism Impact.
+* **Biological Context:** Cross-species analysis of Translocator Protein (TSPO) across *Homo sapiens*, *Rattus norvegicus*, *Mus musculus*, and *Bacillus cereus*. Evaluates the clinical impact of the **Ala147Thr (rs6971)** polymorphism on 2nd- vs. 3rd-generation PET radioligand binding.
+* **NGS Relevance:** Demonstrates core sequence alignment, conservation scoring, and functional variant annotation principles.
+
+### 2. 🧪 [Graph Neural Networks & Machine Learning for Molecular Docking](GNN_Molecular_Docking_ML.ipynb)
+* **Topics:** PyTorch Geometric (PyG), RDKit, Graph Convolutional Networks (GCN), AutoDock4.2 / Vina Automation, Web Dashboard Architecture.
+* **Computational Context:** Converts small molecule ligands into molecular graphs (atoms as node features, bonds as edges) to train a deep GNN model for binding free energy ($\Delta G$) prediction.
+* **Relevance to Structural Dynamics & IDPs:** Integrates ensemble docking across MD conformational clusters with fast GNN surrogate screening — an ideal approach for flexible and intrinsically disordered protein interactions.
+
+---
+
+## 🛠️ Installation & Requirements
+
+To run these notebooks locally, install the necessary dependencies:
+
 ```bash
-pip install biopython matplotlib seaborn pandas numpy
+# Core data science & plotting
+pip install numpy pandas matplotlib seaborn scikit-learn
+
+# Bioinformatics & Cheminformatics
+pip install biopython rdkit
+
+# Deep Learning & PyTorch Geometric
+pip install torch torchvision torchaudio
+pip install torch_geometric
 ```
 
-## Key Tools Used
-| Tool | Purpose |
-|---|---|
-| **Biopython (Entrez)** | Fetch sequences from NCBI databases |
-| **Biopython (PairwiseAligner)** | Global pairwise sequence alignment |
-| **pandas** | Tabular data management |
-| **matplotlib / seaborn** | Visualisation (heatmap, conservation plot) |
+---
 
-## NGS Relevance
-The concepts demonstrated here map directly to core NGS pipeline steps:
-
-| This notebook | NGS pipeline |
-|---|---|
-| Sequence alignment | Read alignment (BWA, Bowtie2, STAR) |
-| Percent identity | Mapping rate / alignment quality |
-| Conservation scoring | Variant frequency analysis |
-| Position annotation | Variant annotation (SnpEff, VEP) |
-| Biological interpretation | Clinical variant classification |
-
-## Author
+## 👤 Author
 **Mohyeddine Taleb**  
-PhD — Biology, Chemistry, Health  
-ICMR – CNRS 7312, University of Reims Champagne-Ardenne  
-[mohyeddine-taleb.github.io](https://mohyeddine-taleb.github.io)
+PhD in Biology, Chemistry, Health  
+ICMR – CNRS UMR 7312, University of Reims Champagne-Ardenne  
+Website: [mohyeddine-taleb.github.io](https://mohyeddine-taleb.github.io) | [GitHub](https://github.com/mohyeddine-taleb)
