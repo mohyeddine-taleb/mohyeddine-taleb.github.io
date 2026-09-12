@@ -66,3 +66,12 @@ redirect_from:
 * Oral communication Journées de ROMEO (2024, 2025) (French).
 * Oral communication 16èmes (English) Rencontres du Réseau de Chimie Théorique du Grand Est (July 2025, Besançon, France).
 * Appicom 4th plenary meeting (English) (2023).
+
+## Publications
+
+* **Isolation, in vitro acetylcholinesterase inhibitory activity, molecular docking, and in silico ADME analysis of compounds from *Cadaba farinosa* roots.**  
+  Mansour Issoufou Tini, Idrissa Soumana, Abdulmagid Alabdul Magid, **Mohyeddine Taleb**, Laurence Voutquenne-Nazabadioko.  
+  *Phytochemistry Letters* (2026). DOI: [10.1016/j.phytol.2026.104254](https://doi.org/10.1016/j.phytol.2026.104254) \| [Free Access Link](https://authors.elsevier.com/c/1nmLB6gBzlgvme)
+
+* **In-silico exploration of BcTSPO: protein-ligand interactions probed by docking and molecular dynamics simulations.**  
+  **Mohyeddine Taleb**, Eric Hénon, Julien Diharce, Catherine Etchebest, Frédéric Bihel, Jean-Jacques Lacapère, Luminita Duma. (Submitted).
