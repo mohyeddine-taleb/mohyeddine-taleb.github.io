@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/Mohyeddine_TALEB_CV.pdf" target="_blank" class="btn btn--primary">Download my detailed CV here</a>
+<p>
+  <a href="{{ base_path }}/files/CV_Mohyeddine_TALEB_eg.pdf" target="_blank" class="btn btn--primary"><i class="fa fa-download"></i> Download CV (English)</a> &nbsp;
+  <a href="{{ base_path }}/files/CV_Mohyeddine_TALEB_fr.pdf" target="_blank" class="btn btn--info"><i class="fa fa-download"></i> Télécharger le CV (Français)</a>
+</p>
 
 ## Education and Diplomas
 
